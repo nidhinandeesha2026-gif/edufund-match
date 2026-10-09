@@ -1,0 +1,11 @@
+scheme_id,scheme_name,max_income_limit_inr,min_gpa_required,eligible_category,gender_restriction,benefit_details
+SCH_01,"Post-Matric Scholarship for SC Students",250000,6.0,SC,All,"Full tuition fee waiver and maintenance allowance"
+SCH_02,"Merit-cum-Means Scholarship for Professional Courses",250000,7.5,Minority,All,"Course fee support up to ₹30,000 per annum"
+SCH_03,"AICTE Pragati Scholarship for Girl Students",800000,7.0,General,Female,"₹50,000 per annum for technical degree or diploma expenses"
+SCH_04,"Central Sector Scheme of Scholarships (CSSS)",450000,8.0,General,All,"Annual financial support for college and university students"
+SCH_05,"Post-Matric Scholarship for OBC Students",250000,6.0,OBC,All,"Full reimbursement of compulsory tuition and exam fees"
+SCH_06,"National Fellowship and Scholarship for Higher Education ST Students",600000,7.0,ST,All,"Full tuition fees, living expenses, and laptop grant"
+SCH_07,"Begum Hazrat Mahal National Scholarship",800000,5.5,Minority,Female,"Financial support for meritorious girl students belonging to minorities"
+SCH_08,"AICTE Swanath Scholarship for Students",800000,6.5,General,All,"₹50,000 per annum for study and living expenses"
+SCH_09,"INSPIRE Scholarship for Higher Education",500000,8.0,General,All,"₹60,000 per annum scholarship grant for science/tech courses"
+SCH_10,"EWS Tuition Fee Assistance Scheme",600000,6.0,General,All,"Partial to full tuition fee support for economically weaker sections"
