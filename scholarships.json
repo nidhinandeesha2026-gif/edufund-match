@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Post-Matric Scholarship (SC/ST)",
+    "levels": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "categories": [
+      "SC",
+      "ST"
+    ],
+    "max_income": 250000,
+    "benefit": "Fee reimbursement + monthly allowance",
+    "apply": "scholarships.gov.in"
+  },
+  {
+    "name": "AICTE Pragati (Girls in Technical Education)",
+    "levels": [
+      "Diploma",
+      "Undergraduate"
+    ],
+    "interest": "Engineering",
+    "gender": "Female",
+    "max_income": 800000,
+    "benefit": "Yearly financial help for tuition",
+    "apply": "scholarships.gov.in"
+  },
+  {
+    "name": "Central Sector Scholarship",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "max_income": 450000,
+    "benefit": "Yearly scholarship for meritorious students",
+    "apply": "scholarships.gov.in"
+  },
+  {
+    "name": "INSPIRE Scholarship (Science)",
+    "levels": [
+      "Undergraduate"
+    ],
+    "interest": "Science",
+    "max_income": 1000000000,
+    "benefit": "Yearly scholarship + mentorship",
+    "apply": "online-inspire.gov.in"
+  },
+  {
+    "name": "PM YASASVI Scholarship (OBC)",
+    "levels": [
+      "Class 9-10",
+      "Class 11-12"
+    ],
+    "categories": [
+      "OBC"
+    ],
+    "max_income": 250000,
+    "benefit": "Yearly scholarship for school education",
+    "apply": "scholarships.gov.in"
+  },
+  {
+    "name": "National Means-cum-Merit Scholarship",
+    "levels": [
+      "Class 9-10",
+      "Class 11-12"
+    ],
+    "max_income": 350000,
+    "benefit": "Yearly scholarship to stop school drop-outs",
+    "apply": "scholarships.gov.in"
+  },
+  {
+    "name": "EWS Merit Scholarship for Higher Education",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "categories": [
+      "EWS",
+      "General"
+    ],
+    "max_income": 500000,
+    "benefit": "Financial aid for economically weaker sections",
+    "apply": "edufund.gov.in"
+  },
+  {
+    "name": "Tata Trust Medical Grant",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "interest": "Medicine",
+    "max_income": 600000,
+    "benefit": "Partial tuition fee waiver for doctors-in-training",
+    "apply": "tatatrusts.org"
+  },
+  {
+    "name": "AICTE Saksham Scholarship (Differently Abled)",
+    "levels": [
+      "Diploma",
+      "Undergraduate"
+    ],
+    "max_income": 800000,
+    "benefit": "Special annual support grant",
+    "apply": "scholarships.gov.in"
+  },
+  {
+    "name": "National Talent Search Fellowship",
+    "levels": [
+      "Class 9-10",
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate"
+    ],
+    "max_income": 1000000000,
+    "benefit": "Prestigious monthly stipend",
+    "apply": "ncert.nic.in"
+  },
+  {
+    "name": "Commerce Excellence Grant",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "interest": "Commerce",
+    "max_income": 400000,
+    "benefit": "Book allowance and tuition support",
+    "apply": "icai.org"
+  },
+  {
+    "name": "Sanskriti Arts & Culture Fellowship",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "interest": "Arts",
+    "max_income": 350000,
+    "benefit": "Support for fine arts and humanities research",
+    "apply": "sanskritifoundation.org"
+  },
+  {
+    "name": "Diploma Achievers Financial Aid",
+    "levels": [
+      "Diploma"
+    ],
+    "max_income": 300000,
+    "benefit": "Direct maintenance allowance",
+    "apply": "aicte-india.org"
+  },
+  {
+    "name": "General Universal Edu-Support",
+    "levels": [
+      "Class 9-10",
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "max_income": 200000,
+    "benefit": "Basic annual school/college supply stipend",
+    "apply": "scholarships.gov.in"
+  },
+  {
+    "name": "Minority Higher Education Scholarship",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "categories": [
+      "General"
+    ],
+    "max_income": 300000,
+    "benefit": "Minority student support fund",
+    "apply": "minorityaffairs.gov.in"
+  },
+  {
+    "name": "Women in STEM National Grant",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "interest": "Engineering",
+    "gender": "Female",
+    "max_income": 700000,
+    "benefit": "Research funding and fee coverage",
+    "apply": "stemwomen.in"
+  },
+  {
+    "name": "Rural Scholars Development Fund",
+    "levels": [
+      "Class 11-12",
+      "Diploma",
+      "Undergraduate"
+    ],
+    "max_income": 180000,
+    "benefit": "Comprehensive boarding and tuition support",
+    "apply": "ruralscholars.org"
+  },
+  {
+    "name": "Technological Innovation Diploma Award",
+    "levels": [
+      "Diploma"
+    ],
+    "interest": "Engineering",
+    "max_income": 500000,
+    "benefit": "Hardware stipend and tuition assistance",
+    "apply": "aicte-india.org"
+  },
+  {
+    "name": "Open Horizons Arts & Humanities Grant",
+    "levels": [
+      "Undergraduate"
+    ],
+    "interest": "Arts",
+    "max_income": 450000,
+    "benefit": "Yearly project materials grant",
+    "apply": "horizons-art.org"
+  },
+  {
+    "name": "Apex Academic Excellence Fellowship",
+    "levels": [
+      "Undergraduate",
+      "Postgraduate"
+    ],
+    "max_income": 1000000000,
+    "benefit": "Full annual tuition reimbursement for top scorers",
+    "apply": "apexscholarships.gov.in"
+  }
+]
